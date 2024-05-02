@@ -529,7 +529,7 @@ footer {
 
 
     main{
-        width: 500px;
+        width: 480px;
     }
 
     .white-section {
@@ -641,7 +641,6 @@ footer {
 
     .pink-section {
         padding: 0px;
-        width: fit-content;
     }
 
     .careers-section {

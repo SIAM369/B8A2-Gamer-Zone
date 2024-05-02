@@ -528,6 +528,9 @@ footer {
     }
 
 
+    main{
+        width: 500px;
+    }
 
     .white-section {
         max-width: 100%;
